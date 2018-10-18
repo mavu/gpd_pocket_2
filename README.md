@@ -20,4 +20,4 @@ If you use the 10-intel.conf, you will have to rotate the screen manually or som
 If you want the screen to be rotated correctly at boot time (for the consoles not X) add "fbcon=rotate:1" in your /etc/default/grub like in the example.
 
 
-
+### these are just some personal files. for a more complete guide look at https://github.com/ishtob/gpd-pocket-2-arch-guide
